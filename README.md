@@ -24,7 +24,6 @@
 <p align="center">
 <a href="mailto:jiyunbae36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:jiyunbae36@gmail.com"/></a>
 <a herf="https://www.linkedin.com/in/jiyun-bae-33568221a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-bae-33568221a/"/></a>
-<a href
 </p>
                                                                                                                                                    
 
