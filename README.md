@@ -23,7 +23,9 @@
 <h3 align="center"><b> Contact </b></h3>
 <p align="center">
 <a href="mailto:jiyunbae36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:jiyunbae36@gmail.com"/></a>
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-bae-33568221a/"/>
+<a href="https://www.linkedin.com/in/jiyun-bae-33568221a/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
 </p>
                                                                                                                                                    
 
